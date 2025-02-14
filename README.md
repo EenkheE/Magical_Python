@@ -1,2 +1,1 @@
-# Magical_Python
-Magical Python examples
+Welcome to the Magical Python examples repository! This repository contains all the code examples from the Magical Python book designed for Python beginners. Feel free to explore, download, and contribute!
